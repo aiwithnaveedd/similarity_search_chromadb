@@ -20,3 +20,7 @@ This project demonstrates how to ingest structured records (employee profiles), 
 ```text
 ├── similarity_employeedata.py    # Main script containing collection setup, ingestion, and search functions
 └── README.md                     # Project documentation
+
+## Setup & Installation
+git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git)
+cd 
