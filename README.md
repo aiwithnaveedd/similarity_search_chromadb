@@ -22,5 +22,10 @@ This project demonstrates how to ingest structured records (employee profiles), 
 └── README.md                     # Project documentation
 
 ## Setup & Installation
-git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git)
-cd 
+
+git clone [(https://github.com/aiwithnaveedd/similarity_search_chromadb.git)]
+cd similarity_search_chromadb
+
+pip install chromadb==1.0.12 sentence-transformers==4.1.0
+
+python3.11 similarity_employeedata.py
